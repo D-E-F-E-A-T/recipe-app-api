@@ -32,7 +32,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/user/tests/test_user_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
+            <state relative-caret-position="56">
               <caret line="149" selection-start-line="149" selection-end-line="149" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -201,16 +201,15 @@
       <option name="presentableId" value="Default" />
       <updated>1558617728334</updated>
       <workItem from="1558617730143" duration="1351000" />
-      <workItem from="1558723177264" duration="14475000" />
+      <workItem from="1558723177264" duration="14880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15826000" />
+    <option name="totallyTimeSpent" value="16231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="746" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17900302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -357,7 +356,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/user/tests/test_user_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
+        <state relative-caret-position="56">
           <caret line="149" selection-start-line="149" selection-end-line="149" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
